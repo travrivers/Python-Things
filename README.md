@@ -7,4 +7,6 @@ A collection of random things I've made in Python
 
 3. [Indeed Job Scraper](https://github.com/trivers88/Python-Things/blob/master/Indeed%20Job%20Scraper/indeedscrape.py) -  Scrapes search results and all subsequent pages from Indeed.  Change Start URL to search results of whatever you want.
 
-4. [PDF Reader](https://github.com/trivers88/Python-Things/blob/master/PDF%20Reader/pdfread.py) - Extracts text from PDF documents
+4. [Metacritic Reviews](https://github.com/trivers88/Python-Things/blob/master/Metacritic%20Reviews/reviews.py) - Takes user input for a title to search Metacritic for, scrapes search results and parses them into a easily readable format. 
+
+5. [PDF Reader](https://github.com/trivers88/Python-Things/blob/master/PDF%20Reader/pdfread.py) - Extracts text from PDF documents
